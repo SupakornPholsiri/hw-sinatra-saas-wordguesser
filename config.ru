@@ -1,3 +1,3 @@
-require './app'
-run WordGuesserApp
+require './part_0/app'
+run MyApp
 
